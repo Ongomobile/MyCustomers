@@ -2,7 +2,7 @@
 //  MyCustomersApp.swift
 //  MyCustomers
 //
-//  Created by Emorn on 7/6/24.
+//  Created by Michael Haslam on 7/6/24.
 //
 
 import SwiftUI
